@@ -45,7 +45,6 @@ The **ABB CRB 1300** is part of ABB's collaborative robot series, designed to wo
 
 ![image](https://github.com/user-attachments/assets/a4b2901c-85e7-49fb-b0e4-62f71140d2b0)
 
-![image](https://github.com/user-attachments/assets/e5ba99ce-8824-4cd3-9fc5-1da705d25d22)
-
 ![image](https://github.com/user-attachments/assets/c22b2278-714d-46e1-ba93-e4b638d7aa79)
 
+![image](https://github.com/user-attachments/assets/e5ba99ce-8824-4cd3-9fc5-1da705d25d22)
